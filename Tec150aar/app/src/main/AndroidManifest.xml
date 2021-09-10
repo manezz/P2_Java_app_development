@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.Tec150aar" >
 
+    // I changed the permissions, so my app can use the internet
     <uses-permission android:name="android.permission.INTERNET"/>
     
     <application
